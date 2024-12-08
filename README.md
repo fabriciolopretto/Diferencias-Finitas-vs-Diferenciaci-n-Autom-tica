@@ -39,8 +39,8 @@ Pasos para instalar y configurar el proyecto:
 ### Pasos
 1. Clona el repositorio:  
    ```bash  
-   git clone https://github.com/fabriciolopretto/Diferencias-Finitas-vs-Diferenciaci-n-Autom-tica.git  
-   cd Diferencias-Finitas-vs-Diferenciaci-n-Autom-tica
+   git clone https://github.com/fabriciolopretto/Diferencias-Finitas-vs-Diferenciacion-Automatica.git  
+   cd Diferencias-Finitas-vs-Diferenciacion-Automatica
 
 ---
 
